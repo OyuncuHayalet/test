@@ -1,29 +1,29 @@
 {
   "mojang_configuration": "https://launcher.sonoyuncu.network/minecraft/launcher.json",
   "java_preferred_type": "so",
-  "version": "0.1.18",
+  "version": "0.1.20",
   "updater": {
     "checksum": "8169544641548a494db203833d76f807f0a99f4c",
     "url": "https://assets.sonoyuncu.com.tr/bootstrap/updater.jar"
   },
   "versionControl": {
     "windows": {
-      "checksum": "63121da60b02912520c79abe3b86ce5b4b61f540",
+      "checksum": "02d297f1b7e0c3e47abc4e1d648e59b3e9f1f615",
       "url": "https://assets.sonoyuncu.com.tr/bootstrap/bootstrap_win.exe"
     },
     "osx": {
-      "checksum": "fc86ee3da7380b05fd6366daa97b4aa0ffd19c07",
-      "checksumComp": "382a16172b445c98851414e9585b742c5af39deb",
+      "checksum": "6ac4a48470b25fd46bb7254f0c9abd0687a117bc",
+      "checksumComp": "63363780a725e53be56444901c5e9a5c42d25538",
       "url": "https://assets.sonoyuncu.com.tr/bootstrap/bootstrap_osx.zip"
     },
     "linux": {
-      "checksum": "c0fd819ee596c0db3c066cec738edfa39e765390",
-      "checksumComp": "3bac9aac08ba623124eba5628bdf3c5d800ef54e",
+      "checksum": "28e3a544c073d3ce5cf59a3d4e0118bd9f668b24",
+      "checksumComp": "9f9a158742bc327ca65b67d0f0ab7324651d4ae2",
       "url": "https://assets.sonoyuncu.com.tr/bootstrap/bootstrap_linux.tar.gz"
     }
   },
   "launcher_jar_url": "https://assets.sonoyuncu.com.tr/minecraft-launcher/launcher.jar",
-  "launcher_jar_checksum": "f49864c374f8cb44c2839a7d70286138da9af557",
+  "launcher_jar_checksum": "7084b5446f45766b710c8c611e8f8d4adfc8ed17",
   "launcher_path": "launcher.jar",
-  "launcher_args": "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dcom.sun.net.ssl.checkRevocation=false -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -XX:+DisableAttachMechanism -Dcom.ibm.tools.attach.enable=no -Djna.encoding=UTF-8 -Dlog4j2.formatMsgNoLookups=true -Dr=1 -Xmn%initRAM%M -Xmx%maxRAM%M -Djava.net.preferIPv4Stack=true %runArgs%"
+  "launcher_args": "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dcom.sun.net.ssl.checkRevocation=false -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Djna.encoding=UTF-8 -Dlog4j2.formatMsgNoLookups=true -Dr=1 -Xmn%initRAM%M -Xmx%maxRAM%M -Djava.net.preferIPv4Stack=true %runArgs%"
 }
