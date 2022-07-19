@@ -12,7 +12,7 @@
       "url": "https://assets.sonoyuncu.com.tr/bootstrap/bootstrap_win.exe"
     },
     "osx": {
-      "checksum": "6ac4a48470b25fd46bb7254f0c9abd0687a117bc",
+      "checksum": "",
       "checksumComp": "63363780a725e53be56444901c5e9a5c42d25538",
       "url": "https://assets.sonoyuncu.com.tr/bootstrap/bootstrap_osx.zip"
     },
