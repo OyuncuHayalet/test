@@ -1,1 +1,11 @@
-9vyCQ8tlxOSyimYKmI65O1VTcVbDvLmKZ9ELGNiq3f10+RvZTxJtSgJBQ5jm2xkq0e1/kENM9gUbP+kvOALFX7iHKzlO3wPMmIKRWQFMD0Y=
+{
+  "FieldNames": {
+    "theMinecraft": "test"
+  },
+  "MethodNames": {
+    "swingItem": "test2"
+  },
+  "ClassNames": {
+    "Minecraft": "net/minecraft/client/Minecraft"
+  }
+}
