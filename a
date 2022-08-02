@@ -25,5 +25,5 @@
   "launcher_jar_url": "https://assets.sonoyuncu.com.tr/minecraft-launcher/launcher.jar",
   "launcher_jar_checksum": "00a6102fa532a635dde4f77b540580d90083b1d9",
   "launcher_path": "launcher.jar",
-  "launcher_args": "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseConcMarkSweepGC -Dcom.sun.net.ssl.checkRevocation=false -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Djna.encoding=UTF-8 -Dlog4j2.formatMsgNoLookups=true -Dr=1 -Xmn%initRAM%M -Xmx%maxRAM%M -Djava.net.preferIPv4Stack=true %runArgs%"
+  "launcher_args": "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dcom.sun.net.ssl.checkRevocation=false -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Djna.encoding=UTF-8 -Dlog4j2.formatMsgNoLookups=true -Dr=1 -Xmn%initRAM%M -Xmx%maxRAM%M -Djava.net.preferIPv4Stack=true %runArgs%"
 }
