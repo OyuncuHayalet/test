@@ -1,7 +1,7 @@
 {
   "mojang_configuration": "https://launcher.sonoyuncu.network/minecraft/launcher.json",
   "": "so",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "updater": {
     "checksum": "8169544641548a494db203833d76f807f0a99f4c",
     "url": "https://assets.sonoyuncu.com.tr/bootstrap/updater.jar"
